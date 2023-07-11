@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aneeza Hafeez</h1>
 <h3 align="center">A passionate Machine Learning developer from Pakistan</h3>
 
-<img algin="right" alt="coding" width="400" scr="https://tenor.com/view/programming-gif-25868426>
 
 - 📫 How to reach me **aneezahafeez15@gmail.com**
 
